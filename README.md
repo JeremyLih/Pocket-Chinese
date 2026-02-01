@@ -42,12 +42,10 @@ Pocket-Chinese/
 │       └── recipes.js                      # 菜谱数据
 ├── assets/                                 # 静态资源
 │   ├── images/                             # 图片资源
-│   │   ├── covers/                         # 菜谱封面图片
-│   │   └── cultural/                       # 文化背景插图
-│   └── videos/                             # 视频教程
-├── app.js                                  # 原单文件版本（备份）
-├── app_backup.js                           # 备份文件
-├── app_temp.js                             # 临时文件
+│   │   ├── covers/                         # 菜谱封面图片（13个文件）
+│   │   └── cultural/                       # 文化背景插图（3个文件）
+│   └── videos/                             # 视频教程（3个文件）
+├── app.js                                  # 原单文件版本（备份参考）
 └── README.md                               # 项目说明文档
 ```
 

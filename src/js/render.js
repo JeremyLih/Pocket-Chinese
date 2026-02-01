@@ -313,7 +313,7 @@ function renderCulturePage() {
                     
                     <div class="culture-category-card" onclick="navigateTo('culture', null, 'festival')">
                         <div class="category-icon">🎊</div>
-                        <h3>节日特殊菜限定菜<br><span>Festival & Seasonal Specialties</span></h3>
+                        <h3>节日特殊限定菜<br><span>Festival & Seasonal Specialties</span></h3>
                         <p>了解中国传统节日的特色菜肴和限定美食，感受节日氛围</p>
                         <div class="category-items">
                             <span>春节年夜饭</span>
@@ -501,7 +501,7 @@ function renderCultureCategoryPage(category) {
         },
         festival: {
             icon: '🎊',
-            title: '节日特殊菜限定菜 / Festival & Seasonal Specialties',
+            title: '节日特殊限定菜 / Festival & Seasonal Specialties',
             description: '了解中国传统节日的特色菜肴和限定美食，感受节日氛围',
             content: `
                 <div class="culture-subsections-grid">
