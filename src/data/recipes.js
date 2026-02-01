@@ -769,7 +769,7 @@ export const recipes = [
                 title: { zh: '煮鸡肉', en: 'Cook Chicken' },
                 description: {
                     zh: '将鸡腿洗净，放入锅中，加入冷水没过鸡肉，大火煮开后转小火煮15分钟，关火焖10分钟。',
-                    en: 'Wash chicken legs, put in pot with cold water covering chicken, bring to boil over high heat, turn to low heat and cook for 15 minutes, turn off heat and焖 for 10 minutes.'
+                    en: 'Wash chicken legs, put in pot with cold water covering chicken, bring to boil over high heat, turn to low heat and cook for 15 minutes, turn off heat and simmer for 10 minutes.'
                 },
                 time: '25分钟 / 25 min'
             },
@@ -991,14 +991,14 @@ export const recipes = [
                 title: { zh: '炒饭', en: 'Fried Rice' },
                 description: {
                     zh: '锅中再加少许油，放入米饭炒散，加入炒好的鸡蛋，加盐调味，撒上葱花翻炒均匀即可。',
-                    en: 'Add a little more oil to pan, add rice and break apart, add炒好的 eggs, season with salt, sprinkle with green onions and stir-fry evenly.'
+                    en: 'Add a little more oil to pan, add rice and break apart, add the cooked eggs, season with salt, sprinkle with green onions and stir-fry evenly.'
                 },
                 time: '10分钟 / 10 min'
             }
         ],
         culture: {
             zh: '蛋炒饭是中国最经典的主食之一，几乎每个中国人都会做。这道菜看似简单，实则需要一定的技巧才能炒出粒粒分明的效果。蛋炒饭不仅可以作为主食，也可以作为一道菜，是剩米饭的绝佳去处。在海外，蛋炒饭也是最受欢迎的中餐之一。',
-            en: 'Egg Fried Rice is one of the most classic staple foods in China, almost every Chinese person knows how to make it. This dish看似 simple, but actually requires certain skills to achieve separate grains. Egg Fried Rice can be served as a staple food or as a dish, and it is an excellent way to use leftover rice. Overseas, Egg Fried Rice is also one of the most popular Chinese dishes.'
+            en: 'Egg Fried Rice is one of the most classic staple foods in China, almost every Chinese person knows how to make it. This dish appears simple, but actually requires certain skills to achieve separate grains. Egg Fried Rice can be served as a staple food or as a dish, and it is an excellent way to use leftover rice. Overseas, Egg Fried Rice is also one of the most popular Chinese dishes.'
         }
     },
     {
@@ -1117,7 +1117,7 @@ export const recipes = [
             },
             {
                 name: { zh: '食用油', en: 'Cooking oil' },
-                amount: '适量 /适量',
+                amount: '适量 / as needed',
                 substitution: null
             }
         ],
